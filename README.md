@@ -5,6 +5,8 @@ UI theme presets for Krita by SubToSidb.
 Retints the entire Krita interface with QSS themes, Gradients,
 glow accents, rounded controls, letter-spaced labels. Ships 29 themes, plus a live preview panel.
 
+You can view some of the visuals by clicking into the Screenshots Folder
+
 ## Install
 
 **Windows:**
